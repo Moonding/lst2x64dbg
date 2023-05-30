@@ -255,7 +255,3 @@ Temporary Items
 .apdisk
 
 ## Local lst2x64dbg Section
-*.csv
-*.lst
-*.dd32
-*.dd64
